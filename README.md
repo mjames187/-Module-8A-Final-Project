@@ -1,7 +1,7 @@
 # -Module-8A-Final-Project
 Program designed and written in C++ by Madeline James.\
 This program takes a specific set of input data, and uses it to output a readable set of block annotated letters.\
-To achieve the correct output, use the following data as the input. The data is formatted as: x-coordinate character y-coordinate\
+To achieve the correct output, use the following data as the input. Each set of three inputs is formatted as: x-coordinate character y-coordinate\
 87	█	3
 23	░	2
 61	█	4
